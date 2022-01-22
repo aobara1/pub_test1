@@ -1,1 +1,2 @@
-このファイルはシンボル
+//
+this is a symbol.
